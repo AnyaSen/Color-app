@@ -2,6 +2,8 @@ Demo Link: https://colorpicker-app.netlify.com/
 
 Built with: React, Material UI
 
+I learned or practiced: React Router, using Material UI components, fetching from API, adding animations, styling with JSS, animating route transactions, using hooks and useState, adding dynamic colors, syncing with with local storage
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 npm start
